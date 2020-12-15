@@ -35,7 +35,7 @@ To install and use my dotfiles, simply clone this repository anywhere you want
 (recommended under `~/.dotfiles`) with the following command. 
 
 ```sh
-git clone --recursive https://github.com/andresgongora/dotfiles.git ~/.dotfiles
+git clone --recursive https://github.com/MAPIRlab/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ```
 
