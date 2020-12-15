@@ -60,7 +60,7 @@ as this depends on [bash-tools](https://github.com/andresgongora/bash-tools)).
 
 
 ```sh
-git clone --recusrive https://github.com/YOURGITHUBUSER/dotfiles.git ~/.dotfiles
+git clone --recusrive https://github.com/MAPIRlab/dotfiles.git ~/.dotfiles
 cd ~/.dotfiles
 ```
 
